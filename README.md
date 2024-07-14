@@ -15,5 +15,6 @@ En este proyecto procedemos a analizar un conjunto de datos que nos da una agenc
 
 Se establecen distintas hipotesis para cada pregunta a contestar y se realizan distintos test para verificarlas. 
 
-Herramientas: Pandas, Numpy, seaborn, matplotlib, statsmodels.\\
+Herramientas: Pandas, Numpy, seaborn, matplotlib, statsmodels.
+
 Test: T-test, ANOVA, Correlación de pearson, regresion lineal.
